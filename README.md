@@ -5,7 +5,7 @@ Una aplicación web de visualización de datos de vehículos. El usuario interac
 
 El contenido del proyecto es el siguiente:
 
-├── README.md
+├── README.md \n
 ├── .gitignore
 ├── app.py
 ├── app1.py
